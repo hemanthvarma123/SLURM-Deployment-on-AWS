@@ -1,0 +1,5 @@
+mkdir: cannot create directory ‘/global’: Permission denied
+/var/spool/slurmd/job00129/slurm_script: line 25: cd: /global/work/ubuntu/job-array-example/129: No such file or directory
+cp: cannot create regular file '/global/work/ubuntu/job-array-example/129': No such file or directory
+now processing task id::  10
+cp: 'output_10.txt' and '/home/ubuntu/output_10.txt' are the same file
